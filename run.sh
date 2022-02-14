@@ -3,5 +3,5 @@
 while true
 do
   getmail -g /etc/getmail
-  sleep 5m
+  sleep 600m
 done
